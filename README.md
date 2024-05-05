@@ -1,0 +1,2 @@
+# Bukhari
+Restaurant management software
